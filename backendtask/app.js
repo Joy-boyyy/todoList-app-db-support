@@ -4,9 +4,9 @@ const mongoose = require('mongoose');
 
 const app = express();
 
-// mongoose.connect('mongodb://127.0.0.1:27017/dummytodoData', { useNewUrlParser: true, useUnifiedTopology: true })
-mongoose.connect('mongodb+srv://as763649:@nand763649@cluster0.cwmgpb5.mongodb.net/dummytodoData?retryWrites=true&w=majority&appName=Cluster0', { useNewUrlParser: true, useUnifiedTopology: true })
+// mongoose.connect('mongodb+srv://as763649:@nand763649@cluster0.cwmgpb5.mongodb.net/dummytodoData?retryWrites=true&w=majority&appName=Cluster0', { useNewUrlParser: true, useUnifiedTopology: true })
   
+mongoose.connect('mongodb://127.0.0.1:27017/dummytodoData', { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => console.log('Database connected'))
   .catch((err) => console.log('Database connection error:', err.message));
 
