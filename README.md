@@ -1,3 +1,15 @@
+<h1> Used Tools</h1>
+<ul>
+  <li>Database: mongodb </li>
+  <li>backend: express.js </li>
+    <li>backend: node.js </li>
+    <li>frontend: react.js </li>
+    <li>CSS-framework: Tailwin </li>
+        <li>json</li>
+        etc.
+
+</ul>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
