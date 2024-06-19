@@ -10,6 +10,15 @@
 
 </ul>
 
+<h2>Note:</h2>
+<ul>
+  <li>please install all dependencies/ packages before running program whatever are in package.json file</li>
+  <li>tried to deply my application but this is not deploying always getting error </li>
+  <li>app video link:  https://drive.google.com/file/d/1cdSDbD4SOsIm4Es4htUkp7S00B1I0lQP/view?usp=sharing  </li>
+  <li>git code: https://drive.google.com/file/d/1o_HWsMH_Quu0e-uNQXlq9lxNEc4vkLL9/view?usp=sharing </li>
+</ul>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
